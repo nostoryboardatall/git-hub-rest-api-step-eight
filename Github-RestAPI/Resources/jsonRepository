@@ -1,0 +1,30 @@
+node_id: MDEwOlJlcG9zaXRvcnkxNDA5ODA2OQ==
+id: 14098069
+
+full_name: justjavac/free-programming-books-zh_CN
+name: free-programming-books-zh_CN
+description: :books: 免费的计算机编程类中文书籍，欢迎投稿
+
+url: https://api.github.com/repos/justjavac/free-programming-books-zh_CN
+downloads_url: https://api.github.com/repos/justjavac/free-programming-books-zh_CN/downloads
+trees_url: https://api.github.com/repos/justjavac/free-programming-books-zh_CN/git/trees{/sha}
+
+created_at: 2013-11-04T01:59:19Z
+pushed_at: 2019-03-28T10:44:57Z
+updated_at: 2019-04-14T16:12:14Z
+
+score: 31.461004
+stargazers_count: 48440
+forks_count: 15939
+watchers_count: 48440
+
+size: 890
+
+owner: {
+        "node_id" = "MDQ6VXNlcjM1OTM5NQ==";
+        id = 359395;
+        login = justjavac;
+        url = "https://api.github.com/users/justjavac";
+        "avatar_url" = "https://avatars1.githubusercontent.com/u/359395?v=4";
+        "html_url" = "https://github.com/justjavac";
+}
